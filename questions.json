@@ -1,0 +1,98 @@
+[ 
+    {
+        "question": "Var är rätt?",
+        "a": "2 gånger högre hastighet, ger 2 gånger längre reaktionssträcka",
+        "b": "2 gånger högre hastighet, ger 4 gånger längre reaktionssträcka",
+        "c": "2 gånger högre hastighet, ger 6 gånger längre reaktionssträcka",
+        "d": "3 gånger högre hastighet, ger 2 gånger längre reaktionssträcka",
+        "key": "2 gånger högre hastighet, ger 2 gånger längre reaktionssträcka"
+    },
+    {
+        "question": "Hur stor andel av dödsolyckorna i trafiken är narkotikarelaterade?",
+        "a": "Ca 15%", 
+        "b": "Ca 10%", 
+        "c": "Ca 30%",
+        "d": "Ca 50%",
+        "key": "Ca 30%"
+    },
+    {
+        "question": "Vart hittar du uppgifter om bilens vikt?",
+        "a": "I besiktningsprotokollet",
+        "b": "Hos polisen",
+         "c": "Registreringsbeviset",
+        "key": "Registreringsbeviset"
+    },
+    {
+        "question": "Vilken olyckstyp orsakas oftast av att föraren varit trött?",
+        "a": "Korsningsolycka", 
+        "b": "Kökrock", 
+        "c": "Omkörningsolycka", 
+        "d": "Singelolycka",
+        "key": "Singelolycka"
+    },
+    {
+        "question": "Hur påverkas ögat och synen?",
+        "a": "En måttlig mängd alkohol förbättrar mörkerseendet",
+        "b": "Måttlig Stress förbättrar periferiseendet", 
+        "c": "Synförsämring sker ofta gradvis och är därför svår att upptäcka",
+        "d": "Det påverkas inte på något sätt",
+        "key": "Synförsämring sker ofta gradvis och är därför svår att upptäcka"
+    },
+    {
+        "question": "Ger en förare som uppnått moget trafikuppträdande lätt efter för grupptryck?",
+        "a": "Ja",
+        "b": "Nej, personen litar mer på sitt eget omdöme",
+        "c": "Ja, om personen har manligt kön",
+        "d": "Ja, personen har kvinnligt kön",
+        "key": "Ja"
+    },
+    {
+        "question": "Vad är sant beträffande en människas moralutveckling?",
+        "a": "Moral utvecklas under åren genom kunskap och insikt", 
+        "b": "Moral påverkar inte beteendet i trafiken", 
+        "c": "Moral är medfött och kan inte påverkas",
+        "key": "Moral utvecklas under åren genom kunskap och insikt"
+    },
+    {
+        "question": "Hur många personer skadas varje år i trafiken i Sverige?",
+        "a":"C:a 6000 per år",
+        "b": "C:a 12000 personer per år", 
+        "c": "C:a 17000 personer per år", 
+        "d": "C:a 25000 personer per år",
+        "key": "C:a 17000 personer per år"
+    },
+    {
+        "question": "Vad är vanligast hos förare som överskattar sin körförmåga?",
+        "a": "De kör ofta balanserat och klokt", 
+        "b": "De anpassar sin körsätt efter sin förmåga",
+        "c": "De kör ofta fortare än de behärskar", 
+        "d": "De drabbas mindre ofta än andra trafikolyckor",
+        "key": "De kör ofta fortare än de behärskar"
+    },
+    {
+        "question": "Vad kännetecknar en mogen förare?",
+        "a": "En förare som haft körkort i minst 10 år",
+        "b": "En förare som har en defensiv körstil",
+        "c": "En förare som överskattar sin egen förmåga",
+        "d": "En förare som snabbt åker iväg vid grönt ljus",
+        "key": "En förare som har en defensiv körstil"
+    },
+    {
+        "question": "Vilken typ av förare är minst inblandade i trafikolyckor?",
+        "a": "De som kör defensivt",
+        "b": "De som kör offensivt",
+        "c": "De som kör impulsivt",
+        "d": "De som har kort reaktionstid",
+        "key": "De som kör defensivt"
+    },
+    {
+        "question": "Vad står förkortningen LABC för?",
+        "a": "Larma, andning, blödning och chock",
+        "b": "Livsfarligt läge, andning, blödning och chock",
+        "c": "Lägeskontroll, andning, blödning och chock",
+        "d": "Lugn, andning, blödning och chock",
+        "key": "Livsfarligt läge, andning, blödning och chock"
+    }   
+
+]
+
