@@ -92,7 +92,64 @@
         "c": "Lägeskontroll, andning, blödning och chock",
         "d": "Lugn, andning, blödning och chock",
         "key": "Livsfarligt läge, andning, blödning och chock"
-    }   
+    },   
+    {   "question": "Vad innebär ett vägmärke med en röd cirkel och en blå bakgrund med ett rött streck genom?",
+        "a": "Parkering förbjuden",
+        "b": "Stoppförbud",
+        "c": "Förbud mot infart",
+        "d": "Begränsad hastighet",
+        "key": "Parkering förbjuden"
+    }, 
+    { "question": "Vad är den högsta tillåtna hastigheten för en tung lastbil på motorväg?",  
+        "a": "80 km/h",
+        "b": "90 km/h",
+        "c": "100 km/h",
+        "d": "110 km/h",
+        "key": "80 km/h"
+    },
 
+    { "question": "Vilket av följande påståenden stämmer angående körning i cirkulationsplats?",
+        "a": "Du har väjningsplikt mot fordon som kör in i cirkulationsplatsen",
+        "b": "Du ska blinka vänster när du kör ut ur cirkulationsplatsen",
+        "c": "Du ska blinka höger när du kör ut ur cirkulationsplatsen",
+        "d": "Du behöver inte blinka när du kör ut ur cirkulationsplatsen",
+        "key": "Du ska blinka höger när du kör ut ur cirkulationsplatsen"
+    },
+    { "question": "Vad innebär en heldragen linje i mitten av vägen?",
+        "a": "Du får inte köra över linjen",
+        "b": "Du får köra över linjen om det är fri sikt",
+        "c": "Du får köra över linjen om du ska svänga av vägen",
+        "d": "Du får köra över linjen om det är en nödsituation",
+        "key": "Du får inte köra över linjen"
+    },
+
+    { "question": "När är det förbjudet att använda dubbdäck?",
+        "a": "1 april till 30 september",
+        "b": "1 maj till 30 september",
+        "c": "1 maj till 31 augusti",
+        "d": "1 juni till 30 september",
+        "key": "1 maj till 30 september"
+    },
+    {  "question": "Vad betyder ett vägmärke med en gul bakgrund och ett rött kryss över?",
+        "a": "Förbud mot att stanna och parkera",
+        "b": "Förbud mot att stanna",
+        "c": "Förbud mot att parkera",
+        "d": "Förbud mot att köra om",
+        "key": "Förbud mot att stanna"
+    },
+    { "question": "Vilket av följande påverkar bromssträckan mest?",
+        "a": "Däckens mönsterdjup",
+        "b": "Fordonets vikt",
+        "c": "Fordonets hastighet",
+        "d": "Väderförhållanden",
+        "key": "Fordonets hastighet"
+    },
+    { "question": "Vilket ljus ska du använda i tät dimma?",
+        "a": "Helljus",
+        "b": "Halvljus",
+        "c": "Dimljus",
+        "d": "Parkeringsljus",
+        "key": "Dimljus"
+    }        
 ]
 

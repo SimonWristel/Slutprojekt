@@ -10,3 +10,158 @@
 2024-05-26 23:49:34: Question: Vad kännetecknar en mogen förare?, Answer: 3
 2024-05-26 23:49:34: Question: Vilken typ av förare är minst inblandade i trafikolyckor?, Answer: 4
 2024-05-26 23:49:35: Question: Vad står förkortningen LABC för?, Answer: 3
+2024-05-27 00:39:42: Question: Var är rätt?, Answer: 1
+2024-05-27 00:39:45: Question: Hur stor andel av dödsolyckorna i trafiken är narkotikarelaterade?, Answer: 2
+2024-05-27 00:39:46: Question: Vart hittar du uppgifter om bilens vikt?, Answer: 3
+2024-05-27 00:39:47: Question: Vilken olyckstyp orsakas oftast av att föraren varit trött?, Answer: 4
+2024-05-27 00:39:47: Question: Hur påverkas ögat och synen?, Answer: 3
+2024-05-27 00:39:47: Question: Ger en förare som uppnått moget trafikuppträdande lätt efter för grupptryck?, Answer: 2
+2024-05-27 00:39:48: Question: Vad är sant beträffande en människas moralutveckling?, Answer: 4
+2024-05-27 00:39:49: Question: Hur många personer skadas varje år i trafiken i Sverige?, Answer: 4
+2024-05-27 00:39:49: Question: Vad är vanligast hos förare som överskattar sin körförmåga?, Answer: 4
+2024-05-27 00:39:49: Question: Vad kännetecknar en mogen förare?, Answer: 3
+2024-05-27 00:39:50: Question: Vilken typ av förare är minst inblandade i trafikolyckor?, Answer: 2
+2024-05-27 00:39:50: Question: Vad står förkortningen LABC för?, Answer: 2
+2024-05-27 00:39:50: Question: Vad innebär ett vägmärke med en röd cirkel och en blå bakgrund med ett rött streck genom?, Answer: 1
+2024-05-27 00:39:51: Question: Vad är den högsta tillåtna hastigheten för en tung lastbil på motorväg?, Answer: 4
+2024-05-27 00:39:51: Question: Vilket av följande påståenden stämmer angående körning i cirkulationsplats?, Answer: 3
+2024-05-27 00:39:52: Question: Vad innebär en heldragen linje i mitten av vägen?, Answer: 2
+2024-05-27 00:39:52: Question: När är det förbjudet att använda dubbdäck?, Answer: 1
+2024-05-27 00:39:53: Question: Vad betyder ett vägmärke med en gul bakgrund och ett rött kryss över?, Answer: 2
+2024-05-27 00:39:53: Question: Vilket av följande påverkar bromssträckan mest?, Answer: 3
+2024-05-27 00:39:54: Question: Vilket ljus ska du använda i tät dimma?, Answer: 4
+2024-05-27 00:40:30: Question: Var är rätt?, Answer: 3
+2024-05-27 00:40:44: Question: Hur stor andel av dödsolyckorna i trafiken är narkotikarelaterade?, Answer: 1
+2024-05-27 00:40:51: Question: Vart hittar du uppgifter om bilens vikt?, Answer: 3
+2024-05-27 00:41:01: Question: Vilken olyckstyp orsakas oftast av att föraren varit trött?, Answer: 3
+2024-05-27 00:41:13: Question: Hur påverkas ögat och synen?, Answer: 3
+2024-05-27 00:41:16: Question: Ger en förare som uppnått moget trafikuppträdande lätt efter för grupptryck?, Answer: 2
+2024-05-27 00:41:17: Question: Vad är sant beträffande en människas moralutveckling?, Answer: 3
+2024-05-27 00:41:17: Question: Hur många personer skadas varje år i trafiken i Sverige?, Answer: 2
+2024-05-27 00:41:17: Question: Vad är vanligast hos förare som överskattar sin körförmåga?, Answer: 3
+2024-05-27 00:41:18: Question: Vad kännetecknar en mogen förare?, Answer: 2
+2024-05-27 00:41:18: Question: Vilken typ av förare är minst inblandade i trafikolyckor?, Answer: 3
+2024-05-27 00:41:18: Question: Vad står förkortningen LABC för?, Answer: 2
+2024-05-27 00:41:18: Question: Vad innebär ett vägmärke med en röd cirkel och en blå bakgrund med ett rött streck genom?, Answer: 3
+2024-05-27 00:41:19: Question: Vad är den högsta tillåtna hastigheten för en tung lastbil på motorväg?, Answer: 2
+2024-05-27 00:41:19: Question: Vilket av följande påståenden stämmer angående körning i cirkulationsplats?, Answer: 3
+2024-05-27 00:41:19: Question: Vad innebär en heldragen linje i mitten av vägen?, Answer: 2
+2024-05-27 00:41:20: Question: När är det förbjudet att använda dubbdäck?, Answer: 3
+2024-05-27 00:41:20: Question: Vad betyder ett vägmärke med en gul bakgrund och ett rött kryss över?, Answer: 2
+2024-05-27 00:41:20: Question: Vilket av följande påverkar bromssträckan mest?, Answer: 3
+2024-05-27 00:41:21: Question: Vilket ljus ska du använda i tät dimma?, Answer: 2
+2024-05-29 09:29:10: Question: Var är rätt?, Answer: 1
+2024-05-29 09:29:14: Question: Hur stor andel av dödsolyckorna i trafiken är narkotikarelaterade?, Answer: 2
+2024-05-29 09:29:15: Question: Vart hittar du uppgifter om bilens vikt?, Answer: 3
+2024-05-29 09:29:16: Question: Vilken olyckstyp orsakas oftast av att föraren varit trött?, Answer: 3
+2024-05-29 09:29:16: Question: Hur påverkas ögat och synen?, Answer: 4
+2024-05-29 09:29:18: Question: Ger en förare som uppnått moget trafikuppträdande lätt efter för grupptryck?, Answer: 3
+2024-05-29 09:29:18: Question: Vad är sant beträffande en människas moralutveckling?, Answer: 4
+2024-05-29 09:29:18: Question: Hur många personer skadas varje år i trafiken i Sverige?, Answer: 2
+2024-05-29 09:29:18: Question: Vad är vanligast hos förare som överskattar sin körförmåga?, Answer: 1
+2024-05-29 09:29:18: Question: Vad kännetecknar en mogen förare?, Answer: 4
+2024-05-29 09:29:18: Question: Vilken typ av förare är minst inblandade i trafikolyckor?, Answer: 1
+2024-05-29 09:29:18: Question: Vad står förkortningen LABC för?, Answer: 3
+2024-05-29 09:29:19: Question: Vad innebär ett vägmärke med en röd cirkel och en blå bakgrund med ett rött streck genom?, Answer: 2
+2024-05-29 09:29:19: Question: Vad är den högsta tillåtna hastigheten för en tung lastbil på motorväg?, Answer: 3
+2024-05-29 09:29:19: Question: Vilket av följande påståenden stämmer angående körning i cirkulationsplats?, Answer: 2
+2024-05-29 09:29:19: Question: Vad innebär en heldragen linje i mitten av vägen?, Answer: 3
+2024-05-29 09:29:19: Question: När är det förbjudet att använda dubbdäck?, Answer: 2
+2024-05-29 09:29:19: Question: Vad betyder ett vägmärke med en gul bakgrund och ett rött kryss över?, Answer: 3
+2024-05-29 09:29:19: Question: Vilket av följande påverkar bromssträckan mest?, Answer: 2
+2024-05-29 09:29:19: Question: Vilket ljus ska du använda i tät dimma?, Answer: 3
+2024-05-29 09:30:47: Question: Var är rätt?, Answer: 3
+2024-05-29 09:30:48: Question: Hur stor andel av dödsolyckorna i trafiken är narkotikarelaterade?, Answer: 3
+2024-05-29 09:30:48: Question: Vart hittar du uppgifter om bilens vikt?, Answer: 3
+2024-05-29 09:30:48: Question: Vilken olyckstyp orsakas oftast av att föraren varit trött?, Answer: 3
+2024-05-29 09:30:49: Question: Hur påverkas ögat och synen?, Answer: 3
+2024-05-29 09:30:49: Question: Ger en förare som uppnått moget trafikuppträdande lätt efter för grupptryck?, Answer: 3
+2024-05-29 09:30:49: Question: Vad är sant beträffande en människas moralutveckling?, Answer: 3
+2024-05-29 09:30:49: Question: Hur många personer skadas varje år i trafiken i Sverige?, Answer: 3
+2024-05-29 09:30:49: Question: Vad är vanligast hos förare som överskattar sin körförmåga?, Answer: 3
+2024-05-29 09:30:50: Question: Vad kännetecknar en mogen förare?, Answer: 3
+2024-05-29 09:30:50: Question: Vilken typ av förare är minst inblandade i trafikolyckor?, Answer: 3
+2024-05-29 09:30:50: Question: Vad står förkortningen LABC för?, Answer: 3
+2024-05-29 09:30:50: Question: Vad innebär ett vägmärke med en röd cirkel och en blå bakgrund med ett rött streck genom?, Answer: 3
+2024-05-29 09:30:50: Question: Vad är den högsta tillåtna hastigheten för en tung lastbil på motorväg?, Answer: 3
+2024-05-29 09:30:50: Question: Vilket av följande påståenden stämmer angående körning i cirkulationsplats?, Answer: 3
+2024-05-29 09:30:51: Question: Vad innebär en heldragen linje i mitten av vägen?, Answer: 3
+2024-05-29 09:30:51: Question: När är det förbjudet att använda dubbdäck?, Answer: 3
+2024-05-29 09:30:51: Question: Vad betyder ett vägmärke med en gul bakgrund och ett rött kryss över?, Answer: 3
+2024-05-29 09:30:51: Question: Vilket av följande påverkar bromssträckan mest?, Answer: 3
+2024-05-29 09:30:51: Question: Vilket ljus ska du använda i tät dimma?, Answer: 3
+2024-05-29 09:33:38: Question: Var är rätt?, Answer: r
+2024-05-29 09:33:39: Question: Hur stor andel av dödsolyckorna i trafiken är narkotikarelaterade?, Answer: r
+2024-05-29 09:33:39: Question: Vart hittar du uppgifter om bilens vikt?, Answer: r
+2024-05-29 09:33:39: Question: Vilken olyckstyp orsakas oftast av att föraren varit trött?, Answer: r
+2024-05-29 09:33:39: Question: Hur påverkas ögat och synen?, Answer: r
+2024-05-29 09:33:39: Question: Ger en förare som uppnått moget trafikuppträdande lätt efter för grupptryck?, Answer: r
+2024-05-29 09:33:40: Question: Vad är sant beträffande en människas moralutveckling?, Answer: r
+2024-05-29 09:40:36: Question: Var är rätt?, Answer: 2
+2024-05-29 09:40:38: Question: Hur stor andel av dödsolyckorna i trafiken är narkotikarelaterade?, Answer: 2
+2024-05-29 09:40:39: Question: Vart hittar du uppgifter om bilens vikt?, Answer: 2
+2024-05-29 09:40:39: Question: Vilken olyckstyp orsakas oftast av att föraren varit trött?, Answer: 2
+2024-05-29 09:40:40: Question: Hur påverkas ögat och synen?, Answer: 2
+2024-05-29 09:40:40: Question: Ger en förare som uppnått moget trafikuppträdande lätt efter för grupptryck?, Answer: 2
+2024-05-29 09:40:41: Question: Vad är sant beträffande en människas moralutveckling?, Answer: 4
+2024-05-29 09:40:41: Question: Hur många personer skadas varje år i trafiken i Sverige?, Answer: 4
+2024-05-29 09:40:42: Question: Vad är vanligast hos förare som överskattar sin körförmåga?, Answer: 4
+2024-05-29 09:40:42: Question: Vad kännetecknar en mogen förare?, Answer: 4
+2024-05-29 09:40:42: Question: Vilken typ av förare är minst inblandade i trafikolyckor?, Answer: 4
+2024-05-29 09:40:42: Question: Vad står förkortningen LABC för?, Answer: 4
+2024-05-29 09:40:42: Question: Vad innebär ett vägmärke med en röd cirkel och en blå bakgrund med ett rött streck genom?, Answer: 4
+2024-05-29 09:40:43: Question: Vad är den högsta tillåtna hastigheten för en tung lastbil på motorväg?, Answer: 4
+2024-05-29 09:40:43: Question: Vilket av följande påståenden stämmer angående körning i cirkulationsplats?, Answer: 4
+2024-05-29 09:40:43: Question: Vad innebär en heldragen linje i mitten av vägen?, Answer: 4
+2024-05-29 09:40:43: Question: När är det förbjudet att använda dubbdäck?, Answer: 4
+2024-05-29 09:40:43: Question: Vad betyder ett vägmärke med en gul bakgrund och ett rött kryss över?, Answer: 4
+2024-05-29 09:40:44: Question: Vilket av följande påverkar bromssträckan mest?, Answer: 4
+2024-05-29 09:40:44: Question: Vilket ljus ska du använda i tät dimma?, Answer: 4
+2024-05-29 09:41:24: Question: Var är rätt?, Answer: 2
+2024-05-29 09:41:26: Question: Hur stor andel av dödsolyckorna i trafiken är narkotikarelaterade?, Answer: 4
+2024-05-29 09:41:26: Question: Vart hittar du uppgifter om bilens vikt?, Answer: 4
+2024-05-29 09:41:26: Question: Vilken olyckstyp orsakas oftast av att föraren varit trött?, Answer: 4
+2024-05-29 09:41:26: Question: Hur påverkas ögat och synen?, Answer: 4
+2024-05-29 09:41:27: Question: Ger en förare som uppnått moget trafikuppträdande lätt efter för grupptryck?, Answer: 4
+2024-05-29 09:41:28: Question: Vad är sant beträffande en människas moralutveckling?, Answer: 4
+2024-05-29 09:41:28: Question: Hur många personer skadas varje år i trafiken i Sverige?, Answer: 4
+2024-05-29 09:43:39: Question: Var är rätt?, Answer: 2
+2024-05-29 09:43:40: Question: Hur stor andel av dödsolyckorna i trafiken är narkotikarelaterade?, Answer: 3
+2024-05-29 09:43:40: Question: Vart hittar du uppgifter om bilens vikt?, Answer: 3
+2024-05-29 09:43:41: Question: Vilken olyckstyp orsakas oftast av att föraren varit trött?, Answer: 4
+2024-05-29 09:43:41: Question: Hur påverkas ögat och synen?, Answer: 2
+2024-05-29 09:43:42: Question: Ger en förare som uppnått moget trafikuppträdande lätt efter för grupptryck?, Answer: 1
+2024-05-29 09:43:42: Question: Vad är sant beträffande en människas moralutveckling?, Answer: 2
+2024-05-29 09:43:43: Question: Hur många personer skadas varje år i trafiken i Sverige?, Answer: 3
+2024-05-29 09:43:43: Question: Vad är vanligast hos förare som överskattar sin körförmåga?, Answer: 4
+2024-05-29 09:43:43: Question: Vad kännetecknar en mogen förare?, Answer: 3
+2024-05-29 09:43:44: Question: Vilken typ av förare är minst inblandade i trafikolyckor?, Answer: 2
+2024-05-29 09:43:44: Question: Vad står förkortningen LABC för?, Answer: 1
+2024-05-29 09:43:44: Question: Vad innebär ett vägmärke med en röd cirkel och en blå bakgrund med ett rött streck genom?, Answer: 2
+2024-05-29 09:43:45: Question: Vad är den högsta tillåtna hastigheten för en tung lastbil på motorväg?, Answer: 3
+2024-05-29 09:43:45: Question: Vilket av följande påståenden stämmer angående körning i cirkulationsplats?, Answer: 4
+2024-05-29 09:43:46: Question: Vad innebär en heldragen linje i mitten av vägen?, Answer: 3
+2024-05-29 09:43:46: Question: När är det förbjudet att använda dubbdäck?, Answer: 2
+2024-05-29 09:43:46: Question: Vad betyder ett vägmärke med en gul bakgrund och ett rött kryss över?, Answer: 1
+2024-05-29 09:43:47: Question: Vilket av följande påverkar bromssträckan mest?, Answer: 2
+2024-05-29 09:43:47: Question: Vilket ljus ska du använda i tät dimma?, Answer: 3
+2024-05-29 10:07:28: Fråga: Var är rätt?, Svar: 2
+2024-05-29 10:07:29: Fråga: Hur stor andel av dödsolyckorna i trafiken är narkotikarelaterade?, Svar: 2
+2024-05-29 10:07:30: Fråga: Vart hittar du uppgifter om bilens vikt?, Svar: 1
+2024-05-29 10:07:30: Fråga: Vilken olyckstyp orsakas oftast av att föraren varit trött?, Svar: 2
+2024-05-29 10:07:31: Fråga: Hur påverkas ögat och synen?, Svar: 1
+2024-05-29 10:07:31: Fråga: Ger en förare som uppnått moget trafikuppträdande lätt efter för grupptryck?, Svar: 1
+2024-05-29 10:07:32: Fråga: Vad är sant beträffande en människas moralutveckling?, Svar: 2
+2024-05-29 10:07:33: Fråga: Hur många personer skadas varje år i trafiken i Sverige?, Svar: 3
+2024-05-29 10:07:33: Fråga: Vad är vanligast hos förare som överskattar sin körförmåga?, Svar: 4
+2024-05-29 10:07:33: Fråga: Vad kännetecknar en mogen förare?, Svar: c
+2024-05-29 10:07:35: Fråga: Vilken typ av förare är minst inblandade i trafikolyckor?, Svar: d
+2024-05-29 10:07:36: Fråga: Vad står förkortningen LABC för?, Svar: d
+2024-05-29 10:07:36: Fråga: Vad innebär ett vägmärke med en röd cirkel och en blå bakgrund med ett rött streck genom?, Svar: d
+2024-05-29 10:07:36: Fråga: Vad är den högsta tillåtna hastigheten för en tung lastbil på motorväg?, Svar: d
+2024-05-29 10:07:37: Fråga: Vilket av följande påståenden stämmer angående körning i cirkulationsplats?, Svar: d
+2024-05-29 10:07:37: Fråga: Vad innebär en heldragen linje i mitten av vägen?, Svar: d
+2024-05-29 10:07:37: Fråga: När är det förbjudet att använda dubbdäck?, Svar: d
+2024-05-29 10:07:38: Fråga: Vad betyder ett vägmärke med en gul bakgrund och ett rött kryss över?, Svar: d
+2024-05-29 10:07:38: Fråga: Vilket av följande påverkar bromssträckan mest?, Svar: d
+2024-05-29 10:07:38: Fråga: Vilket ljus ska du använda i tät dimma?, Svar: d
